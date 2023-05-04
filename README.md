@@ -1,5 +1,7 @@
 # Hi, I am Ivan :wave: :man_technologist:
 
+> Meet new people. Do cool things
+
 ## Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-hryhorenko-455b48126/)](https://www.linkedin.com/in/ivan-hryhorenko-455b48126/) 
