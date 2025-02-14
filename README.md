@@ -17,7 +17,6 @@ Passionate software developer with experience in web development and a knack for
 - :computer: Working on WordPress Themes, Plugins, Gutenberg Blocks, ReactJS, and Laravel applications
 - :gb: English level: B2
 - :book: Currently learning React.js
-- :volcano: Making a startup [FounderTrac](https://foundertrac.com)
 - :golfing: Having a private freelance club
 - :green_apple: My tool: MacBook Pro 16, Apple M1 Pro 
 
